@@ -69,23 +69,7 @@
 
 ###
 
-![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=KevinUrbain&show_icons=true&theme=radical)
-
-###
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=KevinUrbain&layout=compact&theme=radical)
-
-###
-
-![Résumé des contributions](https://github-readme-stats.vercel.app/api?username=KevinUrbain&show_icons=true&count_private=true&theme=radical)
-
-###
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinUrbain&theme=radical)
-
-| Mes Statistiques | Mon Assiduité |
-| :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=KevinUrbain&show_icons=true&theme=radical) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinUrbain&theme=radical) |
 
 ###
 
