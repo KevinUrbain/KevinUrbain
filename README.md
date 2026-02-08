@@ -1,10 +1,4 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=00BFFF"  />
-</div>
-
-###
-
-<h1 align="center">Hi, I'm Kevin 👋</h1>
+<h1 align="left">Hi, I'm Kevin 👋</h1>
 
 ###
 
@@ -12,7 +6,7 @@
 
 ###
 
-<h1 align="center">About Me 👨‍💻</h1>
+<h1 align="left">About Me 👨‍💻</h1>
 
 ###
 
@@ -20,7 +14,7 @@
 
 ###
 
-<h1 align="center">My Tech Stack 🛠</h1>
+<h1 align="left">My Tech Stack 🛠</h1>
 
 ###
 
@@ -44,7 +38,7 @@
 
 ###
 
-<h1 align="center">My Projects 🚀</h1>
+<h1 align="left">My Projects 🚀</h1>
 
 ###
 
@@ -52,7 +46,7 @@
 
 ###
 
-<h1 align="center">My Social Links 📫</h1>
+<h1 align="left">My Social Links 📫</h1>
 
 ###
 
@@ -64,6 +58,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<h1 align="left">My Activity 📈</h1>
 
 ###
 
@@ -83,12 +81,6 @@
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=KevinUrbain.KevinUrbain&"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=00BFFF"  />
 </div>
 
 ###
