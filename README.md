@@ -69,8 +69,14 @@
 ###
 
 <div align="center">
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinUrbain&theme=radical)
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinUrbain&theme=radical)
+
 </div>
+
+###
+
+![Snake animation](https://raw.githubusercontent.com/KevinUrbain/KevinUrbain/output/github-contribution-grid-snake.svg)
 
 ###
 
