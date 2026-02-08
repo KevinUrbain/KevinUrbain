@@ -85,7 +85,7 @@
 
 | Mes Statistiques | Mon Assiduité |
 | :---: | :---: |
-| ![Stats](https://github-readme-stats.vercel.app/api?username=VOTRE_PSEUDO&show_icons=true&theme=radical) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=VOTRE_PSEUDO&theme=radical) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=KevinUrbain&show_icons=true&theme=radical) | ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinUrbain&theme=radical) |
 
 ###
 
