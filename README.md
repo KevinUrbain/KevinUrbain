@@ -76,7 +76,7 @@
 
 ###
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KevinUrbain&show_icons=true&theme=radical&include_all_commits=true)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KevinUrbain&theme=github-compact)
 
 ###
 
