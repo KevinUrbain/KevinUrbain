@@ -78,6 +78,14 @@
 ###
 
 <div align="center">
+  
+![](https://ghchart.rshah.org/KevinUrbain)
+
+</div>
+
+###
+
+<div align="center">
   <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVpZzZzcHk4enpodTlkZm9xcGlmMDhyN2NlNW5wcXZ2OHQ0d2lyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C9p5OvcSFWrte/giphy.gif"  />
 </div>
 
