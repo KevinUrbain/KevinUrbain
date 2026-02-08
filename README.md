@@ -64,12 +64,13 @@
 <h1 align="left">My Activity 📈</h1>
 
 ###
-
 ![Graphe d'activité](https://github-readme-activity-graph.vercel.app/graph?username=KevinUrbain&theme=react-dark)
 
 ###
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinUrbain&theme=radical)
+<div align="center">
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=KevinUrbain&theme=radical)
+</div>
 
 ###
 
