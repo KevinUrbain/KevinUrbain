@@ -1,16 +1,94 @@
-## Hi there 👋
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=00BFFF"  />
+</div>
 
-<!--
-**KevinUrbain/KevinUrbain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<h1 align="center">Hi, I'm Kevin 👋</h1>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<p align="left">Junior Web developer (Back-End) currently training at E6K in Charleroi, with a strong focus on PHP development.<br>I am learning to design structured applications using the MVC pattern and exploring object-oriented programming concepts.</p>
+
+###
+
+<h1 align="center">About Me 👨‍💻</h1>
+
+###
+
+<p align="left">- 💼 Currently working as: Career switcher, formerly a youth educator, bringing strong communication and problem-solving skills.<br>- 🌱 Currently learning: PHP, POO & MVC Patterns<br>- 🎯 Goals: Find an internship, collaborate on projects, learn Laravel Framework and improve my skills by building modern applications<br>- 💡 Interests: Programming, crypto & stock markets, video games and Japanese animation<br>- 🌍 Based in: Belgium🍺🍟</p>
+
+###
+
+<h1 align="center">My Tech Stack 🛠</h1>
+
+###
+
+<div align="center">
+  <img src="https://cdn.simpleicons.org/php/777BB4" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/git/F05032" height="40" alt="git logo"  />
+</div>
+
+###
+
+<h1 align="center">My Projects 🚀</h1>
+
+###
+
+<p align="left">🔹 AstroSight 🪐<br>Community blog dedicated to amateur astronomy and astrophotography.<br><br>- Tech: PHP, MySQL, Bootstrap<br>- Features: User authentication, Blog posts management, Comment system, Admin Moderation, Integrated email delivery system<br>- Status: Completed ✅<br><br>🔗 https://github.com/KevinUrbain/astrosight<br>🔗https://astrosight.be<br><br>🔹 Lawyer showcase website with a custom CMS 👩‍⚖️<br>Showcase website for a lawyer, including a custom in-house CMS for content management.<br><br>- Tech: PHP, MySQL, Bootstrap<br>- Features: Admin authentication, Content management, Integrated email delivery system<br>- Status:  In progress 🚧<br><br>🔗</p>
+
+###
+
+<h1 align="center">My Social Links 📫</h1>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kevin-urbain-6b4443187/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="kevin.urbain.pro@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KevinUrbain/KevinUrbain/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KevinUrbain/KevinUrbain/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KevinUrbain/KevinUrbain/output/pacman-contribution-graph.svg">
+</picture>
+
+###
+
+<div align="center">
+  <img height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzVpZzZzcHk4enpodTlkZm9xcGlmMDhyN2NlNW5wcXZ2OHQ0d2lyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/C9p5OvcSFWrte/giphy.gif"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=KevinUrbain.KevinUrbain&"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=00BFFF"  />
+</div>
+
+###
