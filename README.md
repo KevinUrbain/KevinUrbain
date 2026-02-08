@@ -79,7 +79,7 @@
 
 <div align="center">
   
-![](https://ghchart.rshah.org/KevinUrbain)
+![GitHub Contributions](https://ghchart.rshah.org/2EA043/KevinUrbain)
 
 </div>
 
