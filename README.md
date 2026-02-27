@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 💼 Currently working as: Career switcher, formerly a youth educator, bringing strong communication and problem-solving skills.<br>- 🌱 Currently learning: PHP, POO & MVC Patterns<br>- 🎯 Goals: Find an internship, collaborate on projects, learn Laravel Framework and improve my skills by building modern applications<br>- 💡 Interests: Programming, crypto & stock markets, video games, astronomy, science and Japanese animation<br>- 🌍 Based in: Belgium🍺🍟</p>
+<p align="left">- 💼 Currently working as: Career switcher, formerly a youth educator, bringing strong communication and problem-solving skills.<br>- 🌱 Currently learning: PHP, POO & MVC Patterns<br>- 🎯 Goals: Find an internship, collaborate on projects, learn Laravel/Symfony Framework and improve my skills by building modern applications<br>- 💡 Interests: Programming, crypto & stock markets, video games, astronomy, science and Japanese animation<br>- 🌍 Based in: Belgium🍺🍟</p>
 
 ###
 
