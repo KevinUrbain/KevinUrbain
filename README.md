@@ -100,7 +100,7 @@ Implémentation personnelle d'un système de routing en PHP afin de mieux compre
 
 **Technologies :** PHP · POO · MVC
 
-👉 [Voir le projet]([https://github.com/KevinUrbain](https://github.com/KevinUrbain/Custom-built-dynamic-routing-system-in-an-MVC-PHP-framework))
+👉 [Voir le projet](https://github.com/KevinUrbain/Custom-built-dynamic-routing-system-in-an-MVC-PHP-framework)
 
 ---
 
@@ -208,7 +208,7 @@ Mon objectif est de comprendre **pourquoi** une solution fonctionne, comment les
 
 - 💼 [LinkedIn]([https://chatgpt.com/c/6aa8794a-8a70-83eb-a9da-fd07ffaabe1d#](https://www.linkedin.com/in/kevin-urbain-6b4443187/))
     
-- 📧 Email : kevin.urbain.pro@gmail.com
+- 📧 [Email](kevin.urbain.pro@gmail.com)
     
 - 🐙 [GitHub](https://github.com/KevinUrbain)
     
