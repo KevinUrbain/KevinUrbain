@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Junior Web developer (Back-End) currently training at E6K in Charleroi, with a strong focus on PHP development.<br>I am learning to design structured applications using the MVC pattern and exploring object-oriented programming concepts.</p>
+<p align="left">Junior Web developer (Back-End) currently training at E6K in Charleroi, with a strong focus on PHP and Javascript development.<br>I am learning to design structured applications using the MVC pattern and exploring object-oriented programming concepts.</p>
 
 ###
 
