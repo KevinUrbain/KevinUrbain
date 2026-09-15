@@ -80,7 +80,7 @@ Plateforme web consacrée à l'astronomie permettant aux utilisateurs de publier
 
 Projet personnel développé et déployé en production.
 
-👉 [Voir le projet](https://github.com/KevinUrbain/astrosight)
+👉 [Voir le projet](https://github.com/KevinUrbain/astrosight) 👉 [Visiter le site](https://astrosight.be)
 
 ---
 
