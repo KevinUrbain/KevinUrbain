@@ -206,7 +206,7 @@ Mon objectif est de comprendre **pourquoi** une solution fonctionne, comment les
 
 ## 📫 Contact
 
-- 💼 [LinkedIn]([https://chatgpt.com/c/6aa8794a-8a70-83eb-a9da-fd07ffaabe1d#](https://www.linkedin.com/in/kevin-urbain-6b4443187/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/kevin-urbain-6b4443187/)
     
 - 📧 [Email](kevin.urbain.pro@gmail.com)
     
