@@ -1,8 +1,12 @@
-<h1 align="left">Hi, I'm Kevin 👋</h1>
+#<h1 align="left"> Kevin Urbain</h1>
 
 ###
 
-<p align="left">Junior Web developer (Back-End) currently training at E6K in Charleroi, with a strong focus on PHP and Javascript development.<br>I am learning to design structured applications using the MVC pattern and exploring object-oriented programming concepts.</p>
+Étudiant en Informatique de gestion · Développement d'applications
+
+En reconversion professionnelle vers le développement logiciel, je construis progressivement mes compétences en développement d'applications, avec un intérêt particulier pour le backend, JavaScript et la compréhension des fondamentaux de l'informatique.
+
+Je débute prochainement un bachelier en Informatique de gestion – orientation développement d'applications et je cherche à développer parallèlement une première expérience professionnelle dans l'IT.
 
 ###
 
