@@ -2,7 +2,7 @@
 
 ### 🎓 Étudiant en Informatique de gestion · Développement d'applications
 
-En reconversion professionnelle vers le développement logiciel, je construis progressivement mes compétences en développement d'applications et en informatique.
+En reconversion professionnelle vers l'informatique, je construis progressivement mes compétences en développement d'applications et en informatique.
 
 Après plusieurs années d'expérience professionnelle dans le secteur socio-éducatif, j'ai choisi de me réorienter vers l'informatique. Je débute un **bachelier en Informatique de gestion — orientation développement d'applications**, tout en continuant à développer mes compétences à travers des projets personnels.
 
